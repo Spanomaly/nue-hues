@@ -1,5 +1,6 @@
 # Nue Hues
-An app with colour tools
+
+An app that shows different version of gradients for the same end colours.
 
 Clone it from here:
 
